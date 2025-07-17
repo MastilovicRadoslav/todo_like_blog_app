@@ -5,6 +5,8 @@ Ovo je jednostavna blog aplikacija napravljena u React-u kao deo zadatka za pozi
 
 Aplikacija koristi REST API servis [JSONPlaceholder](https://jsonplaceholder.typicode.com/) za prikaz blog postova. Omogućava pregled najnovijih postova, prikaz skraćenog sadržaja na početnoj stranici i detaljan prikaz svakog pojedinačnog posta.
 
+Demo: [Demo](https://www.youtube.com/watch?v=suFUfkZHzSE&ab_channel=%D0%A0%D0%B0%D0%B4%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%9C%D0%B0%D1%81%D1%82%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%9B) 
+
 ---
 
 ## 🚀 Funkcionalnosti
